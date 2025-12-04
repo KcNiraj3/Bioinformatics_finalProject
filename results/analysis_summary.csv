@@ -1,0 +1,11 @@
+Metric,Value
+Total Samples,90
+Low Grade Samples,50
+High Grade Samples,40
+Genes After Filtering,15967
+Optimal Clusters (K-mean cluster),2
+"Total DEGs (FDR<0.01, |log2FC|>1)",2146
+Upregulated DEGs,1346
+Downregulated DEGs,800
+DEGs with Gene Symbols,2146
+Enriched GO:BP Terms (FDR<0.05),153
